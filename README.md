@@ -4,6 +4,7 @@
 #### Features :
 ##### The Phone goes to silent mode automatically 
 ##### You can add any number of locations like library ,office
+
 ![SCREEN][1]
 
  License
@@ -41,6 +42,4 @@ Faheem - <DFahmApps@gmail.com>
    src="https://github.com/faheema/img/blob/master/ln.png"  height="50" width="50"/>
 
 
-
- [1]https://github.com/faheema/GeoSilent/blob/master/SilentMe/img/screen.png
- [2]
+ [1]:https://github.com/faheema/GeoSilent/blob/master/SilentMe/img/screen.png
